@@ -1,0 +1,12 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+p.last {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+.important {
+  color: Red;
+}
